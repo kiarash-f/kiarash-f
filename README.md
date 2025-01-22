@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate web developer with a focus on building dy
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiarash-f&show_icons=true&count_private=true&theme=radical)
 
 ## 📬 Contact Me
-- 📧 [your-email@example.com](mailto:kiarash.fayyaz72@outlook.com)
+- 📧 [kiarash.fayyaz72@outlook.com](mailto:kiarash.fayyaz72@outlook.com)
 - 🌐 [Website](#)
 
 Thanks for visiting my profile!
