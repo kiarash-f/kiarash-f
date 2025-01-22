@@ -1,15 +1,24 @@
-# 💫 About Me:
-Hello! I'm Kiarash, a passionate full-stack developer with a strong focus on JavaScript and PHP. I thrive on building dynamic and user-friendly web applications that make a difference.<br><br>What I'm Currently Working On<br>I'm currently developing two exciting projects:<br><br>Photography Website: A platform to showcase stunning visuals and provide photographers with a seamless way to display their portfolios.<br>Jewelry Store Website: An e-commerce site designed to offer a smooth and engaging shopping experience for jewelry enthusiasts.<br>Both projects are built using React, ensuring a modern and responsive design that caters to users' needs.<br><br>What I'm Looking to Collaborate On<br>I'm eager to collaborate on innovative web projects, especially those that blend creativity with functionality. Whether it's enhancing an existing application, developing a new feature, or exploring new technologies, I'm open to teaming up with like-minded developers and designers to bring great ideas to life.<br><br>What I'm Looking to Help With<br>I love assisting others with:<br><br>Front-End Development: Utilizing React to create intuitive and responsive user interfaces.<br>Full-Stack Solutions: Integrating back-end services with front-end applications to build comprehensive web solutions.<br>PHP Projects: Offering support and optimization for PHP-based applications. If you're facing challenges in these areas or need guidance on best practices, feel free to reach out!<br>What I'm Currently Learning<br>I'm expanding my skill set by diving into Node.js. This journey is enhancing my backend capabilities, allowing me to build more robust and scalable server-side applications. I'm excited to integrate these new skills into my projects and continue growing as a developer.<br><br>Ask Me About<br>Don't hesitate to ask me about:<br><br>JavaScript Frameworks: Insights into React and vanilla JavaScript.<br>Web Development Best Practices: Tips for building efficient and maintainable code.<br>Project Collaboration: How to effectively work together on web projects. I'm always happy to share my knowledge and learn from others!<br>Fun Fact<br>When I'm not coding, I love capturing breathtaking landscapes with my camera and exploring new hiking trails. Photography not only fuels my creativity but also provides a perfect balance to my technical work.
+# Hi, I'm kiarash fayaz 👋
 
+Welcome to my GitHub! I'm a passionate web developer with a focus on building dynamic and responsive websites.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kiarash-f&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kiarash-f&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarash-f&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👨‍💻 About Me
+- 🌍 Based in Cologne, Germany
+- 🚀 Working with technologies like **React**, **Node.js**, **MongoDB**, **JavaScript**, and **CSS**
+- 🛠 Currently working on [Photography Website](#) and **Admin Dashboard** for photo management
+- 🔭 Always learning and experimenting with new web technologies
 
----
-[![](https://visitcount.itsvg.in/api?id=kiarash-f&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠️ My Skills
+- **Frontend**: React, Vite, JavaScript, HTML, CSS, TailwindCSS
+- **Backend**: Node.js, Express, MongoDB, REST APIs
+- **Version Control**: Git, GitHub
+- **Tools**: VS Code, Postman, Docker
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiarash-f&show_icons=true&count_private=true&theme=radical)
+
+## 📬 Contact Me
+- 📧 [your-email@example.com](mailto:kiarash.fayyaz72@outlook.com)
+- 🌐 [Website](#)
+
+Thanks for visiting my profile!
