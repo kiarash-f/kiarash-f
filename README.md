@@ -4,13 +4,13 @@ Welcome to my GitHub! I'm a passionate web developer with a focus on building dy
 
 ## 👨‍💻 About Me
 - 🌍 Based in NiederKassel, Germany
-- 🚀 Working with technologies like **React**, **Node.js**, **MongoDB**, **JavaScript**, and **CSS**
-- 🛠 Currently working on [Photography Website](#) and **Admin Dashboard** for photo management
+- 🚀 Working with technologies like **Rest API Development**, **Node.js**, **MongoDB**, **JavaScript**, **Express** , **TypeScript**
+- 🛠 Currently working on [Conte School website](#) and **Admin Dashboard** for managing students and courses
 - 🔭 Always learning and experimenting with new web technologies
 
 ## 🛠️ My Skills
 - **Frontend**: React, Vite, JavaScript, HTML, CSS, TailwindCSS
-- **Backend**: Node.js, Express, MongoDB, REST APIs
+- **Backend**: Node.js, Express, MongoDB, REST APIs , TypeScript
 - **Version Control**: Git, GitHub
 - **Tools**: VS Code, Postman, Docker
 
