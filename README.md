@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a passionate web developer with a focus on building dynamic and responsive websites.
 
 ## 👨‍💻 About Me
-- 🌍 Based in Cologne, Germany
+- 🌍 Based in NiederKassel, Germany
 - 🚀 Working with technologies like **React**, **Node.js**, **MongoDB**, **JavaScript**, and **CSS**
 - 🛠 Currently working on [Photography Website](#) and **Admin Dashboard** for photo management
 - 🔭 Always learning and experimenting with new web technologies
